@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547359320313",
+    "firebase_url": "https://crudcursofirebase.firebaseio.com",
+    "project_id": "crudcursofirebase",
+    "storage_bucket": "crudcursofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547359320313:android:19fa49138efba717dcda28",
+        "android_client_info": {
+          "package_name": "br.com.optativa2.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547359320313-v6s4gn37uck3t3lv7vhba4tu603pv4bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.optativa2.login_firebase",
+            "certificate_hash": "53fab96f1c6a27d69ac2eead162dd144fa50babc"
+          }
+        },
+        {
+          "client_id": "547359320313-piggqbm98ndrv646d4oucdsvf9gpucab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTcDy63IH-b_0BPsNIMVItaorvtdZcRRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547359320313-piggqbm98ndrv646d4oucdsvf9gpucab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
